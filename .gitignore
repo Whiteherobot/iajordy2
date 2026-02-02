@@ -63,6 +63,7 @@ venv.bak/
 !models/best_improved.pt
 
 # Datos y datasets (NO subir imágenes)
+data/
 data/UECFood256/
 data/raw/
 data/processed/
